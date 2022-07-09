@@ -183,7 +183,7 @@ ul {
           list-style: none;}  
 
 .contact-box{display: flex;
-             align-items: center;}
+             align-items: flex-end;}
             
 
 .contact-box:first-child{margin-right: 50px;}
